@@ -1,0 +1,16 @@
+@font-face {
+    font-family: opensans;
+    src: url(../media/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+  }
+
+body {
+    
+    font-family: opensans;
+}
+
+
+ul {
+
+    list-style-type: circle;
+  }
+
